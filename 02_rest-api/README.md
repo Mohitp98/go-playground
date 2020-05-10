@@ -3,7 +3,7 @@
 ## How Communication takes place
 
 
-![How communication takes place](02_rest-api/Arch-api.png)
+![How communication takes place](02_rest-api/Arch-api.png?raw=true "How it works?")
 
 ## What is ideal way to handle request? 
 
